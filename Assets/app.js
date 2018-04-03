@@ -1,4 +1,4 @@
-    
+    "use strict"
     
   // Initialize Firebase
   var config = {
